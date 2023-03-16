@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Brian-Galaxy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on currently nothing
-- 📫 How to reach me - DM
+- 👋 Привет-медвед, я Brian.
+- 👀 Изучаю JS, TS, React
+- 🌱 Бывает ковыряю C#
+- 💞️ Коллабы не ищу проектов хватает
+- 📫 Связь через ДС
 
 <!---
 Brian-Galaxy/Brian-Galaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
